@@ -23,11 +23,11 @@ export function BentoGrid() {
       color: "bg-blue-500/5"
     },
     {
-      title: t.step2.title,
-      description: t.step2.desc,
-      icon: <Cloud className="text-purple-500" />,
+      title: t.step5.title,
+      description: t.step5.desc,
+      icon: <Smartphone className="text-rose-500" />,
       className: "md:col-span-1 md:row-span-2",
-      color: "bg-purple-500/5"
+      color: "bg-rose-500/5"
     },
     {
       title: t.step3.title,
@@ -44,11 +44,11 @@ export function BentoGrid() {
       color: "bg-amber-500/5"
     },
     {
-      title: t.step5.title,
-      description: t.step5.desc,
-      icon: <Smartphone className="text-rose-500" />,
-      className: "md:col-span-2 md:row-span-1",
-      color: "bg-rose-500/5"
+      title: t.step2.title,
+      description: t.step2.desc,
+      icon: <Cloud className="text-purple-500" />,
+      className: "md:col-span-3 md:row-span-1",
+      color: "bg-purple-500/5"
     }
   ];
 
@@ -65,7 +65,7 @@ export function BentoGrid() {
         {steps.map((step, index) => (
           <div
             key={index}
-            className={`premium-card p-8 flex flex-col justify-between group hover:scale-[1.02] transition-all ${step.className} ${step.color}`}
+            className={`premium-card p-8 flex flex-col gap-6 group hover:scale-[1.02] transition-all ${step.className} ${step.color}`}
           >
             <div className="p-3 bg-card rounded-2xl w-fit shadow-sm group-hover:shadow-md transition-shadow">
               {step.icon}
