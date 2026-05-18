@@ -1,36 +1,82 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# QRMenu — Ücretsiz Dinamik QR Menü Oluşturucu
 
-## Getting Started
+Hesap açmadan, veri vermeden. Menünüzü oluşturun, Google Drive'a yükleyin, QR kodunuzu alın.
 
-First, run the development server:
+## Özellikler
+
+- **Menü Oluşturucu** — Kategori ve ürün bazlı sürükle-bırak editör. Görsel, fiyat, kalori, alerjen, stok durumu desteği
+- **QR Kod Üretici** — URL'yi gir, anında QR oluştur. Tema rengine uyumlu (koyu/açık mod)
+- **QR Tarayıcı** — Harici kütüphane kullanmadan yerleşik `BarcodeDetector` API ile kamera taraması
+- **Sıfır Veri** — Hiçbir şey sunucuya gönderilmez. Veriler tarayıcıda kalır
+- **Çok Dil** — TR / EN anlık dil değiştirme
+- **PDF / Baskı** — Menüyü tek tıkla yazdır veya PDF olarak kaydet
+- **Dışa / İçe Aktar** — Menüyü `.txt` dosyası olarak yedekle ve geri yükle
+
+## Tech Stack
+
+| Katman | Teknoloji |
+|---|---|
+| Framework | Next.js 16 (App Router) |
+| Dil | TypeScript 5 |
+| Stil | Tailwind CSS v4 |
+| State | Zustand |
+| Form | React Hook Form + Zod |
+| Animasyon | Framer Motion |
+| İkonlar | Lucide React |
+| Tema | next-themes |
+| QR Oluşturma | QRServer API (harici kütüphane yok) |
+| QR Okuma | BarcodeDetector API (yerleşik) |
+
+## Mimari
+
+Feature-based Atomic Design yapısı:
+
+```
+src/
+├── app/                        # Next.js sayfa rotaları (yalnızca metadata)
+├── components/
+│   ├── atoms/                  # En küçük bağımsız birimler
+│   │   ├── Icon.tsx
+│   │   └── ThemeProvider.tsx
+│   ├── molecules/              # Atom kombinasyonları
+│   │   ├── FeatureCard.tsx
+│   │   ├── LanguageToggle.tsx
+│   │   └── ThemeToggle.tsx
+│   └── organisms/              # Karmaşık UI bölümleri
+│       ├── BentoGrid.tsx
+│       ├── Footer.tsx
+│       ├── Header.tsx
+│       └── PageLayout.tsx
+├── features/                   # Domain bazlı modüller
+│   ├── home/
+│   ├── menu-creator/
+│   ├── qr-generator/
+│   ├── qr-scanner/
+│   ├── contact/
+│   ├── features-page/
+│   ├── how-it-works/
+│   └── static-pages/
+├── hooks/                      # useMounted, useScanner
+├── store/                      # Zustand store
+├── lib/                        # utils, i18n, validationSchema
+└── data/                       # locales-tr.json, locales-en.json
+```
+
+## Kurulum
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+bun install
 bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Uygulama `http://localhost:3000` adresinde çalışır.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Build
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+```bash
+bun run build
+```
 
-## Learn More
+## Geliştirici
 
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Emre Karabay** — [github.com/emrekarabay](https://github.com/emrekarabay)
