@@ -1,0 +1,285 @@
+{
+  "hero": {
+    "tag": "Next Generation Menu Experience",
+    "title": "Bring Your Menu to the Digital World in Seconds",
+    "subtitle": "Stop paying for complex software. Create your own QR menu and update the content whenever you want.",
+    "cta": "Get Started",
+    "hint": "Free and Fast"
+  },
+  "generator": {
+    "title": "Enter Your Menu Link",
+    "description": "Paste your Google Drive or website link, and generate your QR code instantly.",
+    "placeholder": "https://drive.google.com/...",
+    "success": "Link verified successfully!",
+    "share": "Share",
+    "download": "Download QR Code",
+    "emptyHint": "QR will appear here when you enter a link",
+    "driveHelpTitle": "GOOGLE DRIVE HELP",
+    "driveHelpDesc": "After uploading your PDF to Drive, Right-Click -> Share -> Copy Link, but make sure to select 'Anyone with the link' first."
+  },
+  "scanner": {
+    "title": "Test Your QR Code",
+    "description": "Instantly test your created or existing QR code using your camera through the browser.",
+    "button": "Open Camera",
+    "scanLine": "Align the QR code within the camera frame.",
+    "result": "Scan Result",
+    "go": "Go",
+    "close": "Close"
+  },
+  "bento": {
+    "title": "Free Dynamic Menu Hack with Google Drive",
+    "subtitle": "No more expensive menu software. Combine Google Drive and QR technology to manage your business professionally.",
+    "step1": {
+      "title": "Design Your Menu",
+      "desc": "Prepare your menu with our built-in tool and select 'Save as PDF' to download."
+    },
+    "step2": {
+      "title": "Upload to Drive (Free)",
+      "desc": "Drag the file to Drive. IMPORTANT: Right-Click -> Share and make sure to select 'Anyone with the link' before copying."
+    },
+    "step3": {
+      "title": "Dynamic QR Hack",
+      "desc": "Don't delete the file. Use 'Manage Versions' to update. Your printed QR codes stay valid forever!"
+    },
+    "step4": {
+      "title": "Instant Access",
+      "desc": "Your customers can reach your menu in seconds."
+    },
+    "step5": {
+      "title": "Mobile Friendly",
+      "desc": "Drive links look perfect on every device."
+    },
+    "caseStudy": {
+      "title": "Case Study: Coffee Joy Restaurant",
+      "quote": "We used to print hundreds of menus every time prices changed. Since switching to Drive + QR, our costs have dropped to zero.",
+      "author": "Ahmet Yılmaz",
+      "role": "Business Owner"
+    }
+  },
+  "nav": {
+    "howItWorks": "How it Works?",
+    "features": "Features",
+    "designMenu": "Design Menu"
+  },
+  "footer": {
+    "tagline": "Zero Data, Maximum Speed.",
+    "privacy": "Privacy",
+    "terms": "Terms",
+    "contact": "Contact"
+  },
+  "home": {
+    "howItWorksLabel": "HOW IT WORKS?",
+    "publishInSeconds": "Publish in Seconds",
+    "howItWorksDesc": "No complex systems. Design your menu, download as PDF, and create your QR code instantly with your Drive link.",
+    "step1Title": "Design & Get PDF",
+    "step1Desc": "Add products and download as a stylish PDF.",
+    "step2Title": "Upload to Drive",
+    "step2Desc": "Upload file and copy the public link.",
+    "step3Title": "Get Your QR Code",
+    "step3Desc": "Paste link and get your ready-to-use QR.",
+    "createNow": "Create Now",
+    "generateQr": "Generate QR",
+    "generateQrCard": "Generate QR",
+    "testQr": "Test QR"
+  },
+  "howItWorks": {
+    "title": "How It Works?",
+    "subtitle": "Launch your digital menu in 3 simple steps.",
+    "step1": "1. Design & Save",
+    "step1Desc": "Create your menu with our tool and download as PDF.",
+    "step2": "2. Upload & Share",
+    "step2Desc": "Upload to Drive. Follow Right-Click -> Share -> Copy Link.",
+    "step3": "3. Create QR",
+    "step3Desc": "Paste the link and get your QR. Printed codes will never expire!",
+    "proTip": "💡 Tip: Use 'Manage Versions' to update without changing the QR!",
+    "principleLabel": "HOW IT WORKS",
+    "heroTitle1": "SMART MENU",
+    "heroTitle2": "HOW IT WORKS?",
+    "heroSubtitle": "Zero data, maximum speed. Build your menu, upload to the cloud, and use your table QR codes forever — without ever reprinting.",
+    "phase1Title": "INITIAL SETUP — 3 STEPS",
+    "setupSteps": [
+      {
+        "title": "Build in the Studio",
+        "desc": "Use Menu Studio to create categories, add items, set prices and upload photos. When ready, click 'Download PDF'.",
+        "detail": "Free, no account, no data sharing."
+      },
+      {
+        "title": "Upload to Drive & Share",
+        "desc": "Drag your PDF into Google Drive. Right-Click → Share → select 'Anyone with the link' and copy the URL.",
+        "detail": "This step puts your menu on the internet."
+      },
+      {
+        "title": "Generate QR & Publish",
+        "desc": "Paste the Drive link into the QR Generator page, download your QR code, and stick it on your tables. Done!",
+        "detail": "Customers reach your menu in seconds."
+      }
+    ],
+    "phase2Badge": "THE UPDATE MAGIC",
+    "phase2Title1": "TABLE QR CODES",
+    "phase2Title2": "NEVER CHANGE!",
+    "phase2Desc": "Did prices change? Added a new item? No need to reprint QR codes. Download a new PDF from Menu Studio and upload it over the old file on Drive.",
+    "phase2How": "How it works:",
+    "phase2Steps": [
+      "Open the Studio, make changes, download the PDF",
+      "Right-click the file on Drive → 'Manage versions'",
+      "Upload the new PDF — link stays the same, content changes",
+      "Table QR codes instantly show the updated menu ✨"
+    ],
+    "phase2TipTitle": "The Key Insight",
+    "phase2TipText": "When you update a file using 'Manage Versions' on Google Drive, the file link never changes. So when a customer scans the old QR code, they always see your latest menu. No need to touch the codes on your tables!",
+    "phase2SyncText": "System Syncing...",
+    "ctaTitle": "Still Waiting?",
+    "ctaCreate": "CREATE YOUR MENU NOW",
+    "ctaQr": "QR GENERATOR"
+  },
+  "features": {
+    "tag": "TECHNOLOGY",
+    "title": "Every Detail Considered",
+    "subtitle": "Everything you need — from menu creation to QR management — under one roof. Free, no account, no data sharing.",
+    "f1": "Menu Studio",
+    "f1Desc": "Add categories and items, set prices and photos. Fill in details like spice level, calories, portion size and ingredients — all in one screen.",
+    "f1Tag": "Full Control",
+    "f2": "Dynamic QR System",
+    "f2Desc": "Did prices change? New item added? Just replace the file on Drive without touching the QR codes on your tables. Customers instantly see the updated menu.",
+    "f2Tag": "Never Reprint",
+    "f3": "Zero Data & No Account",
+    "f3Desc": "No signup form, no email verification, no payment plan. Open the page, build your menu, close it. Data stays on your computer.",
+    "f3Tag": "Full Privacy",
+    "f4": "PDF & Professional Print",
+    "f4Desc": "Download your designed menu as a print-ready PDF in one click. Categories, images, and prices in the right order — optimized for black & white printing.",
+    "f4Tag": "Print Ready",
+    "f5": "Built-in QR Scanner",
+    "f5Desc": "Test the QR code you just created directly in the browser — no external app needed. Grant camera permission, point at the code, instantly verify it works.",
+    "f5Tag": "Instant Test",
+    "f6": "Backup & Restore",
+    "f6Desc": "Save all your menu data to a single .txt file. Open it on a different device or restore after accidentally closing — pick up exactly where you left off.",
+    "f6Tag": "Data Safety",
+    "comparison": {
+      "title": "Compared to Classic Solutions",
+      "subtitle": "No monthly fees, no account creation, no data sharing.",
+      "headers": ["Paper Menu", "SaaS Software", "QRMenu"],
+      "rows": [
+        { "label": "Cost", "values": ["Print + design fee", "Monthly subscription", "Completely free"] },
+        { "label": "Updates", "values": ["Reprint everything", "Log into admin panel", "Replace the Drive file"] },
+        { "label": "Your Data", "values": ["—", "On their servers", "On your computer"] },
+        { "label": "Setup", "values": ["Designer + printer", "Account + card info", "0 seconds"] }
+      ]
+    },
+    "ctaButton": "Create Your Menu Now"
+  },
+  "common": {
+    "dataBrowserNote": "Your data is kept locally during your browser session and is not saved to any server."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": "Your data is safe with us. We only use temporary state."
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "content": "This service is provided for free."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Contact me for your questions.",
+    "email": "Email",
+    "github": "GitHub",
+    "send": "Send"
+  },
+  "errors": {
+    "invalidUrl": "Please enter a valid URL (https://...)",
+    "required": "This field cannot be empty"
+  },
+  "seo": {
+    "home": {
+      "title": "QRMenu | Free Dynamic QR Menu Builder",
+      "description": "Create a free and dynamic QR menu integrated with Google Drive. Modern solution for restaurants and cafes."
+    },
+    "howItWorks": {
+      "title": "How It Works | QRMenu",
+      "description": "Learn how to create your digital menu in 3 simple steps."
+    },
+    "features": {
+      "title": "Features | QRMenu",
+      "description": "Discover the modern and dynamic features offered by QRMenu."
+    },
+    "contact": {
+      "title": "Contact | QRMenu",
+      "description": "Contact me for any questions or suggestions."
+    }
+  },
+  "creator": {
+    "title": "Design Your Own Menu",
+    "subtitle": "Add your products, choose your design, and download as PDF instantly.",
+    "addCategory": "Add New Section (Category)",
+    "addItem": "Add New Product",
+    "categoryPlaceholder": "e.g. Soups, Pizzas...",
+    "namePlaceholder": "Product Name",
+    "pricePlaceholder": "Price",
+    "descPlaceholder": "Ingredients or short description",
+    "preview": "Menu Preview (PDF)",
+    "download": "Finish & Download PDF",
+    "export": "Backup",
+    "import": "Restore",
+    "businessName": "BUSINESS NAME",
+    "newCategory": "NEW CATEGORY",
+    "menuStructure": "MENU STRUCTURE",
+    "categoryName": "CATEGORY NAME",
+    "addItemToCategory": "ADD ITEM TO THIS CATEGORY",
+    "detailedSettings": "DETAILED SETTINGS",
+    "downloadPdf": "DOWNLOAD PDF",
+    "emptyHint": "No Categories Yet",
+    "studioTitle": "QR STUDIO",
+    "importHint": "Select the .txt backup file from your computer",
+    "empty": "You haven't added anything to the menu yet. Start with the 'New Category' button on the left!",
+    "details": "Details",
+    "allergens": "Allergens",
+    "dietary": "Dietary",
+    "spicy": "Spicy Level",
+    "prepTime": "Prep Time",
+    "calories": "Calories",
+    "ingredients": "Ingredients",
+    "portion": "Portion",
+    "extras": "Extras",
+    "excludables": "Excludables",
+    "stock": "STOCK",
+    "badgeLabel": "BADGE",
+    "badges": {
+      "chef_special": "Chef Special",
+      "best_seller": "Best Seller",
+      "new": "New",
+      "none": "None"
+    },
+    "soldOut": "SOLD OUT",
+    "allergenLabels": {
+      "Gluten": "Gluten",
+      "Lactose": "Lactose",
+      "Peanuts": "Peanuts",
+      "Eggs": "Eggs",
+      "Soy": "Soy",
+      "Seafood": "Seafood",
+      "Nuts": "Nuts"
+    },
+    "dietaryLabels": {
+      "Vegan": "Vegan",
+      "Vegetarian": "Vegetarian",
+      "Keto": "Keto",
+      "Gluten-free": "Gluten-free"
+    },
+    "nextSteps": {
+      "ready": "MENU IS READY! 🎉",
+      "followSteps": "Now Follow These Steps",
+      "initialSetup": "INITIAL SETUP",
+      "updateTitle": "UPDATE",
+      "smartMethod": "A Smart Method!",
+      "smartDesc": "When prices change, download the new PDF and upload it over the same file on Drive (replace file).",
+      "smartResult": "Your menu updates instantly without changing the QR codes on the tables! ✨",
+      "generateQr": "CREATE MY QR CODE",
+      "gotIt": "GOT IT, CLOSE",
+      "setupSteps": [
+        { "t": "Download PDF", "d": "Save your menu in a professional format." },
+        { "t": "Upload to Drive", "d": "Upload the file to Drive and set it to 'Anyone can view'." },
+        { "t": "Generate QR", "d": "Copy the Drive link and paste it into our QR Generator." }
+      ]
+    }
+  }
+}

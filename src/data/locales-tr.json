@@ -1,0 +1,285 @@
+{
+  "hero": {
+    "tag": "Yeni Nesil Menü Deneyimi",
+    "title": "Menünüzü Dijital Dünyaya Saniyeler İçinde Taşıyın",
+    "subtitle": "Karmaşık yazılımlara ödeme yapmayı bırakın. Kendi QR menünüzü oluşturun ve içeriği istediğiniz zaman güncelleyin.",
+    "cta": "Hemen Başla",
+    "hint": "Ücretsiz ve Hızlı"
+  },
+  "generator": {
+    "title": "Menü Linkinizi Girin",
+    "description": "Google Drive veya web sitenizin linkini yapıştırın, anında QR kodunuzu oluşturun.",
+    "placeholder": "https://drive.google.com/...",
+    "success": "Link başarıyla doğrulandı!",
+    "share": "Paylaş",
+    "download": "QR Kodunu İndir",
+    "emptyHint": "Link girdiğinizde QR burada belirecek",
+    "driveHelpTitle": "GOOGLE DRIVE YARDIM",
+    "driveHelpDesc": "PDF dosyanızı Drive'a yükledikten sonra Sağ Tıklayın -> Paylaş -> Bağlantıyı Kopyala demeden önce 'Bağlantıya sahip herkes' seçeneğini aktif ettiğinizden emin olun."
+  },
+  "scanner": {
+    "title": "QR Kodunuzu Test Edin",
+    "description": "Oluşturduğunuz veya elinizdeki herhangi bir QR kodu tarayıcı üzerinden kameranızla anında test edebilirsiniz.",
+    "button": "Kamerayı Aç",
+    "scanLine": "QR kodu kamera karesinin içine hizalayın.",
+    "result": "Bulunan Sonuç",
+    "go": "Git",
+    "close": "Kapat"
+  },
+  "bento": {
+    "title": "Google Drive ile Ücretsiz Dinamik Menü Hilesi",
+    "subtitle": "Pahalı menü yazılımlarına son. Google Drive ve QR teknolojisini birleştirerek işletmenizi profesyonelce yönetin.",
+    "step1": {
+      "title": "Menünüzü Tasarlayın",
+      "desc": "Yerleşik tasarım aracımızla menünüzü hazırlayın ve 'PDF Olarak Kaydet' diyerek indirin."
+    },
+    "step2": {
+      "title": "Drive'a Yükleyin (Ücretsiz)",
+      "desc": "Dosyayı Drive'a sürükleyin. ÖNEMLİ: Sağ Tık -> Paylaş dedikten sonra 'Bağlantıya sahip herkes' ayarını seçip linki kopyalayın."
+    },
+    "step3": {
+      "title": "Dinamik QR Hilesi",
+      "desc": "Dosyayı silmeden 'Sürümleri Yönet' (Manage Versions) diyerek güncelleyin. QR kodunuz masalarda hep aynı kalsın!"
+    },
+    "step4": {
+      "title": "Anında Erişim",
+      "desc": "Müşterileriniz saniyeler içinde menünüze ulaşsın."
+    },
+    "step5": {
+      "title": "Mobil Uyumlu",
+      "desc": "Drive linki her cihazda kusursuz görünür."
+    },
+    "caseStudy": {
+      "title": "Vaka Analizi: Kahve Keyfi Restoranı",
+      "quote": "Daha önce her fiyat değişiminde yüzlerce menü bastırmak zorunda kalıyorduk. Drive + QR sistemine geçtiğimizden beri maliyetlerimiz sıfıra indi.",
+      "author": "Ahmet Yılmaz",
+      "role": "İşletme Sahibi"
+    }
+  },
+  "nav": {
+    "howItWorks": "Nasıl Çalışır?",
+    "features": "Özellikler",
+    "designMenu": "Menü Tasarla"
+  },
+  "footer": {
+    "tagline": "Sıfır Veri, Maksimum Hız.",
+    "privacy": "Gizlilik",
+    "terms": "Şartlar",
+    "contact": "İletişim"
+  },
+  "home": {
+    "howItWorksLabel": "NASIL ÇALIŞIR?",
+    "publishInSeconds": "Saniyeler İçinde Yayınlayın",
+    "howItWorksDesc": "Karmaşık sistemlerle uğraşmayın. Tasarımınızı yapın, PDF olarak indirin ve Drive linkinizle anında QR kodunuzu oluşturun.",
+    "step1Title": "Tasarla & PDF Al",
+    "step1Desc": "Ürünlerini ekle ve şık bir PDF olarak indir.",
+    "step2Title": "Drive'a Yükle",
+    "step2Desc": "Dosyayı internete yükleyip linkini kopyala.",
+    "step3Title": "QR Kodunu Al",
+    "step3Desc": "Linki yapıştır ve masalara hazır QR'ını al.",
+    "createNow": "Hemen Oluştur",
+    "generateQr": "QR Kod Üret",
+    "generateQrCard": "QR Oluştur",
+    "testQr": "QR Test Et"
+  },
+  "howItWorks": {
+    "title": "Sistem Nasıl İşliyor?",
+    "subtitle": "3 Basit adımda dijital menünüzü yayına alın.",
+    "step1": "1. Tasarla & Kaydet",
+    "step1Desc": "Menünüzü yerleşik araçla hazırlayıp bilgisayarınıza PDF olarak indirin.",
+    "step2": "2. Drive'a Yükle & Paylaş",
+    "step2Desc": "Drive'a yükleyin. Sağ Tık -> Paylaş -> Bağlantıyı Kopyala yolunu izleyin.",
+    "step3": "3. QR Oluştur",
+    "step3Desc": "Linki yapıştırıp QR kodunuzu alın. Masadaki QR'lar hiç değişmesin!",
+    "proTip": "💡 İpucu: Güncelleme için 'Sürümleri Yönet' özelliğini kullanın!",
+    "principleLabel": "ÇALIŞMA PRENSİBİ",
+    "heroTitle1": "AKILLI MENÜ",
+    "heroTitle2": "NASIL ÇALIŞIR?",
+    "heroSubtitle": "Sıfır veri, maksimum hız. Menünüzü oluşturun, buluta yükleyin ve masadaki QR kodları hiç değiştirmeden ömür boyu kullanın.",
+    "phase1Title": "İLK KURULUM — 3 ADIM",
+    "setupSteps": [
+      {
+        "title": "Stüdyo'da Oluştur",
+        "desc": "Menu Studio ile kategorilerinizi oluşturun, ürünleri ekleyin, fiyat ve görselleri belirleyin. Hazır olduğunda 'PDF İndir' butonuna basın.",
+        "detail": "Ücretsiz, üyeliksiz, veri vermeden."
+      },
+      {
+        "title": "Drive'a Yükle & Paylaş",
+        "desc": "PDF'i Google Drive'a sürükleyin. Sağ Tık → Paylaş → 'Bağlantıya sahip herkes' seçin ve linki kopyalayın.",
+        "detail": "Bu adım menüyü internete taşır."
+      },
+      {
+        "title": "QR Kodunu Üret & Yayınla",
+        "desc": "Drive linkini QR Oluşturucu sayfasına yapıştırın, QR kodunuzu indirin ve masalarınıza yapıştırın. Bitti!",
+        "detail": "Müşterileriniz anında menüye ulaşır."
+      }
+    ],
+    "phase2Badge": "GÜNCELLEME SİHRİ",
+    "phase2Title1": "MASADAKİ QR KODLARI",
+    "phase2Title2": "ASLA DEĞİŞMEZ!",
+    "phase2Desc": "Fiyatlarınız mı değişti? Yeni bir ürün mü eklediniz? Baştan QR basmanıza gerek yok. Menu Studio'dan yeni PDF'inizi indirin ve Drive'daki eski dosyanın üzerine yükleyin.",
+    "phase2How": "Nasıl Çalışır:",
+    "phase2Steps": [
+      "Stüdyo'yu açın, değişikliği yapın, PDF'i indirin",
+      "Drive'da dosyaya sağ tıklayın → 'Sürümleri Yönet'",
+      "Yeni PDF'i yükleyin — link aynı kalır, içerik değişir",
+      "Masadaki QR'lar anında güncel menüyü gösterir ✨"
+    ],
+    "phase2TipTitle": "Püf Noktası",
+    "phase2TipText": "Google Drive'da 'Sürümleri Yönet' ile dosyayı değiştirdiğinizde link aynı kalır. Müşteri eski QR'ı okutsa bile yeni menüyü görür. Masadaki kodlara dokunmanıza gerek yok!",
+    "phase2SyncText": "Sistem Senkronize Ediliyor...",
+    "ctaTitle": "Hâlâ Bekliyor Musun?",
+    "ctaCreate": "ŞİMDİ MENÜNÜ OLUŞTUR",
+    "ctaQr": "QR OLUŞTURUCU"
+  },
+  "features": {
+    "tag": "TEKNOLOJİ",
+    "title": "Her Detay Düşünüldü",
+    "subtitle": "Menü oluşturmaktan QR yönetimine kadar ihtiyacınız olan her şey tek çatı altında. Ücretsiz, üyeliksiz, veri vermeden.",
+    "f1": "Menü Stüdyosu",
+    "f1Desc": "Kategori ve ürünleri ekleyin, fiyat ve görsel belirleyin. Acı seviyesi, kalori, porsiyon ve içindekiler gibi detayları tek ekranda doldurun.",
+    "f1Tag": "Tam Kontrol",
+    "f2": "Dinamik QR Sistemi",
+    "f2Desc": "Fiyat değişti, yeni ürün geldi? Masadaki QR kodlarına dokunmadan Drive'daki dosyayı değiştirin. Müşteriniz anında güncel menüyü görür.",
+    "f2Tag": "Asla Sökmek Yok",
+    "f3": "Sıfır Veri & Üyeliksiz",
+    "f3Desc": "Kayıt formu yok, e-posta doğrulama yok, ödeme planı yok. Sayfayı açın, menünüzü yapın, kapatın. Veriler sizin bilgisayarınızda.",
+    "f3Tag": "Tam Gizlilik",
+    "f4": "PDF & Profesyonel Baskı",
+    "f4Desc": "Tasarladığınız menüyü tek tıkla baskıya hazır PDF olarak indirin. Kategoriler, görseller ve fiyatlar doğru sırada, siyah-beyaz baskıya uygun.",
+    "f4Tag": "Baskıya Hazır",
+    "f5": "Yerleşik QR Okuyucu",
+    "f5Desc": "Oluşturduğunuz QR kodu harici uygulama olmadan doğrudan tarayıcıda test edin. Kamera izni verilir, kodun çalışıp çalışmadığı anında görülür.",
+    "f5Tag": "Anında Test",
+    "f6": "Yedekle & Geri Yükle",
+    "f6Desc": "Tüm menü verinizi tek bir .txt dosyasına kaydedin. Farklı cihazda açın ya da yanlışlıkla kapattıktan sonra restore edin, kaldığınız yerden devam edin.",
+    "f6Tag": "Veri Güvencesi",
+    "comparison": {
+      "title": "Klasik Çözümlerle Karşılaştırma",
+      "subtitle": "Aylık ücret ödemeden, hesap açmadan, veri vermeden.",
+      "headers": ["Kağıt Menü", "SaaS Yazılım", "QRMenu"],
+      "rows": [
+        { "label": "Maliyet", "values": ["Baskı + tasarım ücreti", "Aylık abonelik", "Tamamen ücretsiz"] },
+        { "label": "Güncelleme", "values": ["Yeniden bastır", "Admin panelinden gir", "Drive dosyasını değiştir"] },
+        { "label": "Verileriniz", "values": ["—", "Onların sunucusunda", "Sizin bilgisayarınızda"] },
+        { "label": "Kurulum", "values": ["Tasarımcı + matbaa", "Hesap + kart bilgisi", "0 saniye"] }
+      ]
+    },
+    "ctaButton": "Menünü Şimdi Oluştur"
+  },
+  "common": {
+    "dataBrowserNote": "Verileriniz tarayıcı oturumunuz boyunca yerel olarak tutulur ve hiçbir sunucuya kaydedilmez."
+  },
+  "privacy": {
+    "title": "Gizlilik Politikası",
+    "content": "Verileriniz bizimle güvende. Sadece geçici state kullanıyoruz."
+  },
+  "terms": {
+    "title": "Kullanım Şartları",
+    "content": "Bu servis ücretsiz olarak sunulmaktadır."
+  },
+  "contact": {
+    "title": "İletişim",
+    "subtitle": "Sorularınız için bana ulaşın.",
+    "email": "E-posta",
+    "github": "GitHub",
+    "send": "Gönder"
+  },
+  "errors": {
+    "invalidUrl": "Lütfen geçerli bir URL giriniz (https://...)",
+    "required": "Bu alan boş bırakılamaz"
+  },
+  "seo": {
+    "home": {
+      "title": "QRMenu | Ücretsiz Dinamik QR Menü Oluşturucu",
+      "description": "Google Drive ile entegre, ücretsiz ve dinamik QR menü oluşturun. Restoran ve kafeler için modern çözüm."
+    },
+    "howItWorks": {
+      "title": "Nasıl Çalışır? | QRMenu",
+      "description": "3 basit adımda dijital menünüzü nasıl oluşturacağınızı öğrenin."
+    },
+    "features": {
+      "title": "Özellikler | QRMenu",
+      "description": "QRMenu'nün sunduğu modern ve dinamik özellikleri keşfedin."
+    },
+    "contact": {
+      "title": "İletişim | QRMenu",
+      "description": "Her türlü soru ve öneriniz için bana ulaşın."
+    }
+  },
+  "creator": {
+    "title": "Kendi Menünü Tasarla",
+    "subtitle": "Ürünlerini ekle, tasarımını seç ve anında PDF olarak indir.",
+    "addCategory": "Yeni Kategori (Bölüm) Ekle",
+    "addItem": "Yeni Ürün Ekle",
+    "categoryPlaceholder": "Örn: Çorbalar, Pizzalar...",
+    "namePlaceholder": "Ürünün Adı",
+    "pricePlaceholder": "Fiyatı",
+    "descPlaceholder": "İçindekiler veya kısa açıklama",
+    "preview": "Menü Görünümü (PDF)",
+    "download": "Menüyü Bitir ve PDF İndir",
+    "export": "Yedek Al (Backup)",
+    "import": "Yedek Yükle (Restore)",
+    "businessName": "İŞLETME ADI",
+    "newCategory": "YENİ KATEGORİ",
+    "menuStructure": "MENÜ YAPISI",
+    "categoryName": "KATEGORİ ADI",
+    "addItemToCategory": "BU KATEGORİYE ÜRÜN EKLE",
+    "detailedSettings": "DETAYLI AYARLAR",
+    "downloadPdf": "PDF İNDİR",
+    "emptyHint": "Henüz Kategori Yok",
+    "studioTitle": "QR STUDIO",
+    "importHint": "Bilgisayarınızdaki .txt uzantılı yedek dosyasını seçin",
+    "empty": "Henüz menüye bir şey eklemediniz. Sol taraftaki 'Yeni Kategori' butonuyla başlayın!",
+    "details": "Detaylar",
+    "allergens": "Alerjenler",
+    "dietary": "Beslenme",
+    "spicy": "Acı Seviyesi",
+    "prepTime": "Hazırlanma Süresi",
+    "calories": "Kalori",
+    "ingredients": "İçindekiler",
+    "portion": "Porsiyon",
+    "extras": "Ekstralar",
+    "excludables": "Çıkartılabilirler",
+    "stock": "STOK",
+    "badgeLabel": "ROZET",
+    "badges": {
+      "chef_special": "Şefin Tavsiyesi",
+      "best_seller": "En Çok Satan",
+      "new": "Yeni",
+      "none": "Yok"
+    },
+    "soldOut": "TÜKENDİ",
+    "allergenLabels": {
+      "Gluten": "Glüten",
+      "Lactose": "Laktoz",
+      "Peanuts": "Yer Fıstığı",
+      "Eggs": "Yumurta",
+      "Soy": "Soya",
+      "Seafood": "Deniz Ürünleri",
+      "Nuts": "Kuruyemiş"
+    },
+    "dietaryLabels": {
+      "Vegan": "Vegan",
+      "Vegetarian": "Vejetaryen",
+      "Keto": "Keto",
+      "Gluten-free": "Glütensiz"
+    },
+    "nextSteps": {
+      "ready": "MENÜN HAZIR! 🎉",
+      "followSteps": "Şimdi Sıradaki Adımları İzle",
+      "initialSetup": "İLK KURULUM",
+      "updateTitle": "GÜNCELLEME",
+      "smartMethod": "Zekice Bir Yöntem!",
+      "smartDesc": "Fiyatlar değiştiğinde yeni PDF'i indirin ve Drive'daki aynı dosyanın üzerine (dosyayı değiştir) yükleyin.",
+      "smartResult": "Masadaki QR kodları değiştirmeden menünüz anında güncellenir! ✨",
+      "generateQr": "QR KODUMU OLUŞTUR",
+      "gotIt": "ANLADIM, KAPAT",
+      "setupSteps": [
+        { "t": "PDF'i İndir", "d": "Menünüzü profesyonel formatta kaydedin." },
+        { "t": "Google Drive'a Yükle", "d": "Dosyayı Drive'a yükleyip 'Herkes görebilir' yapın." },
+        { "t": "QR Kodunu Oluştur", "d": "Drive linkini kopyalayıp QR Oluşturucuya yapıştırın." }
+      ]
+    }
+  }
+}
